@@ -1,6 +1,7 @@
 {
-    "name": "leosarli/automatic-lumen-api",
+    "name": "newwaybrazil/automatic-lumen-api-skeleton",
     "description": "API Rest Full created in lumen using query builder that auto generate base code for simple crud (with unit tests and feature tests)",
+    "version": "1.0.0",
     "keywords": ["api", "ret full", "lumen", "back", "generate code"],
     "license": "MIT",
     "type": "project",
@@ -20,6 +21,12 @@
         "phpunit/phpunit": "~7.0",
         "squizlabs/php_codesniffer": "^3.4"
     },
+    "authors": [
+        {
+            "name": "New Way Brazil",
+            "email": "opensource@gruponewway.com.br"
+        }
+    ],
     "autoload": {
         "classmap": [
         ],
